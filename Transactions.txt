@@ -1,0 +1,71 @@
+70
+21/c/Withdraw/2.0/211.5/208.44
+21/c/Withdraw/2.0/208.44/205.4
+21/c/Withdraw/2.0/205.4/202.37
+21/c/Withdraw/2.0/202.37/199.36
+21/c/Withdraw/2.0/199.36/196.36
+21/c/Withdraw/2.0/196.36/193.38
+21/c/Withdraw/2.0/193.38/190.42
+21/c/Withdraw/2.0/190.42/187.46
+21/s/Deposit/23.0/0.0/23.0
+21/c/Deposit/213.0/0.0/211.5
+21/c/Deposit/1222.0/187.46/1407.96
+21/c/Deposit/19099.0/1407.96/20505.46
+21/c/Deposit/6.0/20505.46/20509.96
+23/c/Deposit/2.0/243.0/243.5
+23/c/Deposit/2.0/243.5/244.0
+23/c/Deposit/2.0/244.0/244.5
+23/c/Deposit/2.0/244.5/245.0
+23/c/Deposit/2.0/245.0/245.5
+23/c/Deposit/2.0/245.5/246.0
+23/c/Deposit/2.0/246.0/246.5
+23/c/Deposit/2.0/246.5/247.0
+23/c/Deposit/123.0/0.0/121.5
+23/s/Deposit/123.0/0.0/123.0
+23/c/Deposit/123.0/121.5/243.0
+Full Name/c/Deposit/123.0/0.0/121.5
+Full Name/s/Deposit/123.0/0.0/123.0
+Full Names/c/Deposit/500.0/576.5/1075.0
+Full Names/c/Deposit/578.0/0.0/576.5
+Full Names/s/Deposit/12445.0/0.0/12445.0
+Full Namess/c/Deposit/23.0/23920.78/23942.28
+Full Namess/c/Deposit/23.0/23942.28/23963.78
+Full Namess/c/Deposit/23.0/23963.78/23985.28
+Full Namess/c/Deposit/23.0/23985.28/24006.78
+Full Namess/c/Withdraw/23.0/24006.78/23863.75
+Full Namess/c/Withdraw/23.0/23863.75/23721.43
+Full Namess/c/Withdraw/23.0/23721.43/23579.82
+Full Namess/c/Withdraw/23.0/23579.82/23438.92
+Full Namess/c/Withdraw/23.0/23438.92/23298.73
+Full Namess/c/Withdraw/23.0/23298.73/23159.24
+Full Namess/c/Withdraw/23.0/23159.24/23020.44
+Full Namess/s/Withdraw/23.0/666.0/641.75
+Full Namess/s/Withdraw/23.0/641.75/617.5
+Full Namess/s/Withdraw/23.0/617.5/593.25
+Full Namess/s/Withdraw/23.0/593.25/569.0
+Full Namess/s/Withdraw/23.0/569.0/544.75
+Full Namess/s/Withdraw/23.0/544.75/520.5
+Full Namess/s/Withdraw/23.0/520.5/496.25
+Full Namess/s/Withdraw/23.0/496.25/472.0
+Full Namess/s/Withdraw/23.0/472.0/447.75
+Full Namess/s/Withdraw/23.0/447.75/423.5
+Full Namess/s/Withdraw/23.0/423.5/399.25
+Full Namess/s/Withdraw/23.0/399.25/375.0
+Full Namess/s/Withdraw/23.0/375.0/350.75
+Full Namess/s/Withdraw/23.0/350.75/326.5
+Full Namess/s/Withdraw/23.0/326.5/302.25
+Full Namess/s/Withdraw/23.0/302.25/278.0
+Full Namess/s/Withdraw/23.0/278.0/253.75
+Full Namess/s/Withdraw/23.0/253.75/229.5
+Full Namess/s/Withdraw/23.0/229.5/205.25
+Full Namess/s/Withdraw/23.0/205.25/181.0
+Full Namess/s/Withdraw/23.0/181.0/156.75
+Full Namess/s/Withdraw/23.0/156.75/132.5
+Full Namess/s/Withdraw/23.0/132.5/108.25
+Full Namess/s/Withdraw/23.0/108.25/84.0
+Full Namess/s/Withdraw/23.0/84.0/59.75
+Full Namess/s/Withdraw/23.0/59.75/35.5
+Full Namess/s/Withdraw/23.0/35.5/11.25
+Full Namess/c/Withdraw/500.0/24543.5/23920.78
+Full Namess/s/Deposit/666.0/0.0/666.0
+Full Namess/c/Deposit/24545.0/0.0/24543.5

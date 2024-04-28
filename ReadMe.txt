@@ -1,0 +1,1 @@
+To run, start the run the "bankify.java" file
